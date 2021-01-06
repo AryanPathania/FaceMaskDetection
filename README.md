@@ -18,4 +18,5 @@ This is the link for the [dataset](https://www.kaggle.com/ashishjangra27/face-ma
 - At last I used the frame from the camera and used the model (trained) to check if the person is wearing the mask or not.
 <br><br>
 ### Result<br>
+The accuracy on validation set was **"99.89%"**
 ![FaceMaskExample](https://user-images.githubusercontent.com/50714723/103445929-a5cb3080-4c9f-11eb-9974-e86e1c244ec2.gif)
